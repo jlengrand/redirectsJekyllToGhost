@@ -1,0 +1,397 @@
+[
+    {
+        "from": "/2011/11/compiling-opencv-for-linux-debian",
+        "to": "/compiling-opencv-for-linux-debian",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/12/how-we-won-our-first-startup-weekend",
+        "to": "/how-we-won-our-first-startup-weekend",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/first-message",
+        "to": "/first-message",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/09/petit-guide-de-lexpatriation",
+        "to": "/petit-guide-de-l-expatriation",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/keysonic-keyboard-and-linux-problems",
+        "to": "/keysonic-keyboard-and-linux-problems",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/08/presenting-ivolution-timelapse-creation-with-face-recognition",
+        "to": "/ivolution-your-personal-timelapse",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/02/xbmc-share-your-external-drive-to-your-other-computers",
+        "to": "/xbmc-share-your-external-drive-to-your-other-computers",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/12/multiprocessing-using-python",
+        "to": "/multiprocessing-using-python",
+        "permanent": "true"
+    },
+    {
+        "from": "/2015/01/supply-and-demand-meetup",
+        "to": "/supply-and-demand-meetup",
+        "permanent": "true"
+    },
+    {
+        "from": "/2017/07/working-at-ing",
+        "to": "/starting-a-new-adventure",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/09/use-a-xerox-printer-on-ubuntu",
+        "to": "/use-a-xerox-printer-on-ubuntu",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/android-arm-optimized-computer-vision-library",
+        "to": "/arm-optimized-computer-vision-library-android",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/11/classification-hu-and-zernike-moments-matlab",
+        "to": "/classification-hu-and-zernike-moments-matlab",
+        "permanent": "true"
+    },
+    {
+        "from": "/2016/05/make-fails-compile-ffmpeg",
+        "to": "/make-fails-compile-ffmpeg",
+        "permanent": "true"
+    },
+    {
+        "from": "/2018/06/installing-gdal-python36",
+        "to": "/installing-gdal-for-python-3-6",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/opencv-rect-expects-four-integers",
+        "to": "/opencv-rect-expects-four-integers",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/06/how-working-as-a-cook-helped-me-be-a-better-developer",
+        "to": "/how-working-as-a-cook-helped-me-be-a-better-developer",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/08/the-pirate-patch-python-flavored",
+        "to": "/the-pirate-patch-python-flavored",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/11/errors-on-linux-boot-with-a-radeon-hd",
+        "to": "/errors-on-linux-boot-with-a-radeon-hd",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/activate-numpad-on-startup",
+        "to": "/activate-numpad-on-startup",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/06/remove-all-your-thumbs-files",
+        "to": "/remove-all-your-thumbs-files",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/05/count-the-number-of-lines-of-code-of-your-projects",
+        "to": "/count-the-number-of-lines-of-code-of-your-projects",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/05/design-innovation-and-hacking-in-a-couch",
+        "to": "/design-innovation-and-hacking-in-a-couch",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/01/relocating-to-the-netherlands",
+        "to": "/relocating-to-the-netherlands",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/10/automatic-tweeting-using-ifttt",
+        "to": "/automatic-tweeting-using-ifttt",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/12/syntax-highlighting-issue",
+        "to": "/syntax-highlighting-issue",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/06/personal-rant",
+        "to": "/personal-rant",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/synchronize-config-files-between-computers",
+        "to": "/synchronize-config-files-between-computers",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/12/pythonunittest-assertraises-raises-error",
+        "to": "/pythonunittest-assertraises-raises-error",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/11/get-the-power-of-matlab-in-command-line",
+        "to": "/get-the-power-of-matlab-in-command-line",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/01/my-minimalist-dark-pluxml-theme",
+        "to": "/my-minimalist-dark-pluxml-theme",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/11/cool-computer-vision-project-shredded-documents",
+        "to": "/cool-computer-vision-project-shredded-documents",
+        "permanent": "true"
+    },
+    {
+        "from": "/2018/05/walldashboard-raspberry.1",
+        "to": "/walldashboard-raspberry",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/10/stack-overflow-a-hate-love-story",
+        "to": "/stack-overflow-a-hate-love-story",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/05/fusion-de-donnees-sonar-sous-marines",
+        "to": "/sonar-images-segmentation-and-classification-fusion",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/02/run-for-your-life-fellow-programmers",
+        "to": "/run-for-your-life-fellow-developers",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/12/simply-print-current-function-name",
+        "to": "/simply-print-current-function-name",
+        "permanent": "true"
+    },
+    {
+        "from": "/2018/04/puppeteer-google-maps-carrefour",
+        "to": "/puppeteer-google-maps-carrefour",
+        "permanent": "true"
+    },
+    {
+        "from": "/2015/07/merging-svn-repositories",
+        "to": "/merging-several-svn-repositories-into-one",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/12/a-simple-way-to-watermark-a-batch-of-images",
+        "to": "/a-simple-way-to-watermark-a-batch-of-images",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/converting-a-flv-file-to-avi",
+        "to": "/converting-a-flv-file-to-avi",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/05/easily-change-file-separator",
+        "to": "/easily-change-file-separator",
+        "permanent": "true"
+    },
+    {
+        "from": "/2017/08/attending-the-polymer-summit",
+        "to": "/my-experience-at-the-2017-polymer-summit",
+        "permanent": "true"
+    },
+    {
+        "from": "/2014/01/strange-bug-with-long-xml-files-in-android",
+        "to": "/strange-bug-with-long-xml-files-in-android",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/09/first-alpha-of-the-ivolution-project-is-out",
+        "to": "/first-alpha-of-the-ivolution-project-is-out",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/06/is-descartes-the-father-of-agile-development",
+        "to": "/is-descartes-the-father-of-agile-development?",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/12/the-programming-tips-page-is-back",
+        "to": "/the-programming-tips-page-is-back",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/08/ivolution-development-status-35",
+        "to": "/ivolution-development-status-35",
+        "permanent": "true"
+    },
+    {
+        "from": "/2016/08/actinspace-change-detection-solutions",
+        "to": "/participating-the-esa-actinspace-hackathon",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/10/integrate-a-twitter-timeline-in-your-android-application",
+        "to": "/integrate-a-twitter-timeline-in-your-android-application",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/pombo-how-to-get-your-stolen-computer-back",
+        "to": "/pombo-how-to-get-your-stolen-computer-back",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/05/insert-urls-into-a-latex-document",
+        "to": "/insert-urls-into-a-latex-document",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/10/my-almost-perfect-setup-to-stay-focused",
+        "to": "/my-almost-perfect-setup-to-stay-focused",
+        "permanent": "true"
+    },
+    {
+        "from": "/2016/08/jenkins-clone-git-wrong-branch",
+        "to": "/jenkins-clone-git-wrong-branch",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/12/a-simple-way-to-get-a-multilingual-blog",
+        "to": "/a-simple-way-to-get-a-multilingual-blog",
+        "permanent": "true"
+    },
+    {
+        "from": "/2014/08/editing-the-tags-of-topics-in-google-groups",
+        "to": "/editing-the-tags-of-topics-in-google-groups",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/01/a-lightweight-dynamic-cms-database-free",
+        "to": "/a-lightweight-dynamic-cms-database-free",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/06/spotify-to-youtube-converter-my-first-web-app",
+        "to": "/spotify-to-youtube-converter-my-first-web-app",
+        "permanent": "true"
+    },
+    {
+        "from": "/2014/07/compiling-xuggle-on-ubuntu-14-04",
+        "to": "/compiling-xuggle-on-ubuntu-14-04",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/04/about-time-to-market",
+        "to": "/about-time-to-market",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/11/simple-region-growing-implementation-in-python",
+        "to": "/a-simple-region-growing-implementation-in-python",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/02/execute-a-function-given-its-name-as-a-string",
+        "to": "/execute-a-function-given-its-name-as-a-string",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/03/efficiently-handle-knowledge-as-a-computer-scientist",
+        "to": "/efficiently-handle-knowledge-as-a-computer-scientist",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/02/profiling-a-python-script",
+        "to": "/profiling-a-python-script",
+        "permanent": "true"
+    },
+    {
+        "from": "/2018/04/automating-spotify-proxy-settings",
+        "to": "/automating-the-activation-deactivation-of-spotify-s-proxy-settings",
+        "permanent": "true"
+    },
+    {
+        "from": "/2016/06/green-hackfest-2014",
+        "to": "/participating-the-green-hackfest-utrecht-2014",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/my-pics-on-deviantart",
+        "to": "/my-pics-on-deviantart",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/04/lets-scratch-those-itches",
+        "to": "/let-s-scratch-those-itches",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/05/i-feel-fat",
+        "to": "/i-feel-fat",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/06/my-very-first-python-script-docfinder",
+        "to": "/my-very-first-python-script-docfinder",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/02/a-small-but-growing-list-of-computer-vision-companies",
+        "to": "/a-small-but-growing-list-of-computer-vision-companies",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/06/llama-profile-activation-problems",
+        "to": "/llama-profile-activation-problems",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/10/find-whether-a-windows-dll-is-compiled-for-32-or-64-bits-on-linux",
+        "to": "/find-whether-a-windows-dll-is-compiled-for-32-or-64-bits-on-linux",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/02/how-to-spend-nights-on-the-computer",
+        "to": "/how-to-spend-nights-on-the-computer",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/10/onlocationchanged-is-never-called-on-android",
+        "to": "/onlocationchanged-is-never-called-on-android",
+        "permanent": "true"
+    },
+    {
+        "from": "/2013/02/xbmc-wont-leave-me-ever-again",
+        "to": "/xbmc-won-t-leave-me-ever-again",
+        "permanent": "true"
+    },
+    {
+        "from": "/2012/09/ivolution-development-status-36",
+        "to": "/ivolution-development-status-36",
+        "permanent": "true"
+    },
+    {
+        "from": "/2011/10/why-i-dont-use-adblocker-and-co",
+        "to": "/why-i-don-t-use-adblocker-and-co",
+        "permanent": "true"
+    },
+    {
+        "from": "/2018/07/open-offices-are-evil",
+        "to": "/open-offices-are-evil-long-live-open-offices",
+        "permanent": "true"
+    }
+]
